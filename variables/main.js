@@ -12,4 +12,4 @@ console.log(mark);
 
 let name = Alisa;
 let message = «Привет, мир! Меня зовут »;
-console.log(${message} name);
+console.log (`${message} ${name}`);
